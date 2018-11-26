@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Лихолет](https://up.htmlacademy.ru/javascript/16/user/666209).
-* Наставник: `Неизвестно`.
+* Наставник: `Алексей Балесный`.
 
 ---
 
