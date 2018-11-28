@@ -93,5 +93,4 @@ window.renderStatistics = function (ctx, names, times) {
   getBarColor(ctx, names, times);
   renderText(TEXT_LINE1, TextLinePosition1.x, TextLinePosition1.y, ctx);
   renderText(TEXT_LINE2, TextLinePosition2.x, TextLinePosition2.y, ctx);
-
 };
